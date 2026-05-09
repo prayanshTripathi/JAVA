@@ -1,4 +1,4 @@
-package BASICs.DATATYPEs;
+package BASICs.OPERATORs;
 
 public class Arithmetic {
     public static void main(String[] args) {
