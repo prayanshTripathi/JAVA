@@ -1,4 +1,4 @@
-package BASICs.ARRAYs;
+package basics.arrays;
 
 public class workArray {
     public static void main(String[] args) {

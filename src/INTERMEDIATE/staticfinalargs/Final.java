@@ -1,4 +1,4 @@
-package INTERMEDIATE.STATICANDFINAL;
+package intermediate.staticfinalargs;
 
 public class Final {
     public static void main(String[] args) {

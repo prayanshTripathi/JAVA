@@ -1,4 +1,4 @@
-package BASICs.CONDITIONALs;
+package basics.conditionals;
 
 public class ifElse {
     public static void main(String[] args) {

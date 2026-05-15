@@ -1,4 +1,4 @@
-package BASICs.CONDITIONALs;
+package basics.conditionals;
 
 public class oddEvenifElse {
     public static void main(String[] args) {

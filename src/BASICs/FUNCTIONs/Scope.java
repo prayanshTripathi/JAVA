@@ -1,4 +1,4 @@
-package BASICs.FUNCTIONs;
+package basics.functions;
 
 public class Scope {
 

@@ -1,4 +1,4 @@
-package BASICs.LOOPs;
+package basics.loops;
 
 public class Jump {
     public static void main(String[] args) {

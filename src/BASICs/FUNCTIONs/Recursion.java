@@ -1,4 +1,4 @@
-package BASICs.FUNCTIONs;
+package basics.functions;
 
 public class Recursion {
     public static void main(String[] args) {

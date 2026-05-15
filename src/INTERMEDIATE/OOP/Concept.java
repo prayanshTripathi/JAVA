@@ -1,4 +1,4 @@
-package INTERMEDIATE.OOP;
+package intermediate.oop;
 
 
 // JAVA Is Almost Fully Object Oriented Language.

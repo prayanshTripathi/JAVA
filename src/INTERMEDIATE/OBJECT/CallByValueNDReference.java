@@ -1,4 +1,4 @@
-package INTERMEDIATE.OBJECT;
+package intermediate.object;
 
 public class CallByValueNDReference {
     public static void main(String[] args) {

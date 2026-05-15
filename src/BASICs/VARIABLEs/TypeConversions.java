@@ -1,4 +1,4 @@
-package BASICs.VARIABLEs;
+package basics.variables;
 
 public class TypeConversions {
 

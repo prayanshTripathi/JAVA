@@ -1,4 +1,4 @@
-package BASICs.VARIABLEs;
+package basics.variables;
 
 public class TypePromotions {
     public static void main(String[] args) {

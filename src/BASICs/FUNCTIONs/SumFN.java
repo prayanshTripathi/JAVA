@@ -1,4 +1,4 @@
-package BASICs.FUNCTIONs;
+package basics.functions;
 
 public class SumFN {
     public static void main(String[] args) {

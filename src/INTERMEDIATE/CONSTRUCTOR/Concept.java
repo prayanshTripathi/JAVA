@@ -1,4 +1,4 @@
-package INTERMEDIATE.CONSTRUCTOR;
+package intermediate.constructor;
 
 public class Concept {
     public static void main(String[] args) {

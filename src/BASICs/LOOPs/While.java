@@ -1,4 +1,4 @@
-package BASICs.LOOPs;
+package basics.loops;
 
 public class While {
     public static void main(String[] args) {
